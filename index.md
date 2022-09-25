@@ -8,9 +8,8 @@
 
 #    SUPPORT
 
-[![DiscordBanner](https://invidget.switchblade.xyz/S3jkGvstbx)](https://discord.gg/S3jkGvstbx)
-
-[![DiscordBanner](https://discord-readme-badge.vercel.app/api?id=967904098047381587)](https://links.nischay.ovh)
+[![Email](ucai6969@gmail.com)]
+[![DiscordBanner](https://discord-readme-badge.vercel.app/api?id=967904098047381587)]
 
 # DONATE
 <a class="button umami--click--PP" href="https://nischaydev.tebex.io/package/5063868"><img src="https://i.imgur.com/Fa0ss9i.png" width="350" height="auto"></a>
