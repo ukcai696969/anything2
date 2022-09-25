@@ -8,7 +8,7 @@
 
 #    SUPPORT
 
-[![Email](ucai6969@gmail.com)]
+[Email: ukcai6969@gmail.com](htpps:lavalink.ml) 
 [![DiscordBanner](https://discord-readme-badge.vercel.app/api?id=967904098047381587)]
 
 # DONATE
