@@ -8,12 +8,11 @@
 
 #    SUPPORT
 
-[Email: ukcai6969@gmail.com](htpps:lavalink.ml) 
+
 [![DiscordBanner](https://discord-readme-badge.vercel.app/api?id=967904098047381587)]
 
 # DONATE
-<a class="button umami--click--PP" href="https://nischaydev.tebex.io/package/5063868"><img src="https://i.imgur.com/Fa0ss9i.png" width="350" height="auto"></a>
 
-<a class="button umami--click--PP" href="https://github.com/sponsors/nischay876"><img src="https://raw.githubusercontent.com/mechPenSketch/mechPenSketch/master/img/github_sponsor_btn.svg" width="350" height="auto"></a>
 
-<a class="button umami--click--PP" href="https://paypal.me/seikosandeep"><img src="https://i.imgur.com/ua5gOmw.png" width="350" height="auto"></a>
+
+<a class="button umami--click--PP" href="https://paypal.me/ukcai"><img src="https://i.imgur.com/ua5gOmw.png" width="350" height="auto"></a>
