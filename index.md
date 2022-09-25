@@ -6,8 +6,6 @@
 
 ## [![HOW TO CONNECT](https://dabuttonfactory.com/button.png?t=HOW+TO+CONNECT&f=Open+Sans-Bold&ts=20&tc=fff&hp=45&vp=20&c=20&bgt=gradient&bgc=3b7dbf&ebgc=073763)](./how-to-connect/)
 
-#    SUPPORT
-
 
 [![DiscordBanner](https://discord-readme-badge.vercel.app/api?id=967904098047381587)]
 
